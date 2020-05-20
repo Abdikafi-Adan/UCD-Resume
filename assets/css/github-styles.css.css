@@ -6,6 +6,10 @@ br {
 }
 
 
+div#map {
+    min-height: 660px;
+    min-width: 660px;
+    }
 
 ol,
 ul {
